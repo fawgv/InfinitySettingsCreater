@@ -27,7 +27,7 @@ namespace InfinitySettingsCreater
 
         public string GetPassForSip(int sip)
         {
-            foreach (var item in DictSipPass)
+            foreach (var item in DictSipPass) 
             {
                 try
                 {
